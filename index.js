@@ -33,6 +33,9 @@ let questions = [{
 }, {
   question: "What's my favourite sport? ",
   answer: "Football"
+}, {
+  question: "Where did I graduate from? (Abbreviation will do) ",
+  answer: "MJCET"
 }];
 
 for (let i=0; i<questions.length; i++) {
